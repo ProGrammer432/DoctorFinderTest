@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorFinder", "DoctorFinder\DoctorFinder.csproj", "{24C0E1BA-A42B-479B-ADF1-7FC3032CA032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorFinder.Tests", "DoctorFinder.Tests\DoctorFinder.Tests.csproj", "{ED785103-1717-4493-972D-5E505C610414}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nirmalkumar.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DoctorFinder.Tests\\DoctorFinder.Tests.csproj
+		SccProjectName1 = DoctorFinder.Tests
+		SccLocalPath1 = DoctorFinder.Tests
+		SccProjectUniqueName2 = DoctorFinder\\DoctorFinder.csproj
+		SccProjectName2 = DoctorFinder
+		SccLocalPath2 = DoctorFinder
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C0E1BA-A42B-479B-ADF1-7FC3032CA032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C0E1BA-A42B-479B-ADF1-7FC3032CA032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C0E1BA-A42B-479B-ADF1-7FC3032CA032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C0E1BA-A42B-479B-ADF1-7FC3032CA032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED785103-1717-4493-972D-5E505C610414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED785103-1717-4493-972D-5E505C610414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED785103-1717-4493-972D-5E505C610414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED785103-1717-4493-972D-5E505C610414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
